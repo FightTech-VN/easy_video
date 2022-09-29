@@ -1,8 +1,16 @@
 ## Easy Video
 
 
+## Demo
+
+https://user-images.githubusercontent.com/13028582/192937364-88527bbe-9f22-4e23-ac2b-179129382c99.mp4
+
+## Useage
+
 ### Create new video
 ```
+
+
 EasyVideoWidget(
     url: 'https://fighttech.vn/video/plist.m3u8',
     autoPlay: false
