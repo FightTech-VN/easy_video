@@ -1,7 +1,8 @@
 name: easy_video
 description: A new Flutter package project.
 version: 0.0.1
-homepage: https://tech.fighttech.vn
+homepage: https://github.com/FightTech-VN/easy_video
+issue_tracker: https://github.com/FightTech-VN/easy_video/issues
 
 environment:
   sdk: ">=2.18.1 <3.0.0"
