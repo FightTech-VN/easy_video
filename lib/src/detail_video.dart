@@ -34,9 +34,11 @@ class DetailVideoState extends State<DetailVideo> {
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Hero(
-                tag: widget.heroTag,
-                child: widget.player,
+              Center(
+                child: Hero(
+                  tag: widget.heroTag,
+                  child: widget.player,
+                ),
               ),
             ],
           ),
