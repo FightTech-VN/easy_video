@@ -5,7 +5,7 @@
 
 https://user-images.githubusercontent.com/13028582/192937364-88527bbe-9f22-4e23-ac2b-179129382c99.mp4
 
-## Useage
+## Usage
 
 ### Create new video
 ```
